@@ -20,3 +20,4 @@ Task tracking and plan for TranscodeFlow development. Estimated workload ~25h.
 ## Part 4: Packaging and Deployment
 - [ ] Prepare dedicated dockerfile with FFmpeg + GPU acceleration support
 - [ ] Create docker template with volume mapping for local/NAS paths, to deploy the app easily.
+- [ ] Write technical documentation (API reference, configuration guide, and setup instructions)
